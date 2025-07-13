@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcertManagementSystem.Api", "ConcertManagementSystem.Api\ConcertManagementSystem.Api.csproj", "{F5A0EE35-F1B8-441E-B8B9-B6D7282C07CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcertManagementSystem.Tests", "ConcertManagementSystem.Tests\ConcertManagementSystem.Tests.csproj", "{87D0702A-8176-4570-B4E5-CFF7BF82C457}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F5A0EE35-F1B8-441E-B8B9-B6D7282C07CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5A0EE35-F1B8-441E-B8B9-B6D7282C07CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5A0EE35-F1B8-441E-B8B9-B6D7282C07CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D0702A-8176-4570-B4E5-CFF7BF82C457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D0702A-8176-4570-B4E5-CFF7BF82C457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D0702A-8176-4570-B4E5-CFF7BF82C457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D0702A-8176-4570-B4E5-CFF7BF82C457}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
